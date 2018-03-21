@@ -1,1 +1,1 @@
-# junyi_onlinetest
+Repository for [JunYi Academy](https://www.junyiacademy.org/) online programming test.
